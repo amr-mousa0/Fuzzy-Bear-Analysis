@@ -221,15 +221,15 @@ It covers:
 
 ### Executive Overview
 
-![Executive Overview](./Assets/executive-overview.png)
+![Executive Overview](./assets/executive-overview.png)
 
 ### Marketing Analysis
 
-![Marketing Analysis](./Assets/marketing-analysis.png)
+![Marketing Analysis](./assets/marketing-analysis.png)
 
 ### Sales Analysis
 
-![Sales Analysis](./Assets/sales-analysis.png)
+![Sales Analysis](./assets/sales-analysis.png)
 
 ---
 
