@@ -255,7 +255,14 @@ The project was built around practical questions.
 
 The project combines SQL analysis and Power BI to explore marketing performance, customer behavior, sales performance, product performance, revenue, profitability, and refunds.
 
+
 ---
+
+# 🔗 Live Demo
+
+[**View the Interactive Dashboard Live Here**](https://app.powerbi.com/view?r=eyJrIjoiZWFmZjMzYWItMDI2Zi00OWVmLThmYzItOTM4Yzg3MjIwNWI5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+---
+
 
 # Progress
 
