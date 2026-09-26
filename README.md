@@ -77,9 +77,7 @@ Fuzzy Factory Data Analytics
 
 | File | Description |
 |------|-------------|
-| 📊 [Fuzzy-Factory.pbix](./Fuzzy-Factory.pbix) | Power BI dashboard containing the complete analysis |
 | 💾 [Fuzzy-Factory.sql](./Fuzzy-Factory.sql) | SQL analysis and business queries |
-| 📄 [Fuzzy-Factory.pdf](./Fuzzy-Factory.pdf) | Project analysis and supporting documentation |
 | 🖼️ [assets](./assets) | Dashboard previews and project visuals |
 
 ---
