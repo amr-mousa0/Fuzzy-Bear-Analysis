@@ -46,6 +46,11 @@
         "type": "sql",
         "title": "Fuzzy Factory SQL Analysis",
         "file": "Fuzzy-Factory.sql"
+      },
+      {
+        "type": "powerbi",
+        "title": "Interactive Power BI Dashboard",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"
       }
     ],
 
