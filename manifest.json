@@ -43,11 +43,6 @@
         "file": "assets/sales-analysis.png"
       },
       {
-        "type": "pdf",
-        "title": "Fuzzy Factory Analysis",
-        "file": "Fuzzy-Factory.pdf"
-      },
-      {
         "type": "sql",
         "title": "Fuzzy Factory SQL Analysis",
         "file": "Fuzzy-Factory.sql"
