@@ -1,1 +1,79 @@
+{
+  "schemaVersion": 1,
 
+  "project": {
+    "title": "Fuzzy Factory Data Analytics",
+
+    "description": "A complete data analytics case study combining SQL and Power BI to analyze marketing performance, customer behavior, sales, products, revenue, profitability, and refunds.",
+
+    "problem": "Raw business data can contain valuable information about marketing performance, customer behavior, sales, and product performance, but extracting meaningful business insights requires structured analysis and clear visualization.",
+
+    "solution": "This project uses SQL to investigate the Fuzzy Factory dataset through practical business questions and Power BI to transform the analysis into an interactive dashboard covering executive performance, marketing analysis, and sales analysis.",
+
+    "businessValue": "Demonstrates the ability to transform raw business data into actionable insights by combining SQL analysis, KPI development, customer funnel analysis, marketing performance analysis, sales analysis, product analysis, and Power BI visualization.",
+
+    "status": "production",
+
+    "tags": [
+      "SQL",
+      "PostgreSQL",
+      "Power BI",
+      "Data Analysis",
+      "Marketing Analytics",
+      "Sales Analytics",
+      "Business Intelligence"
+    ],
+
+    "cover": "assets/cover.webp",
+
+    "gallery": [
+      {
+        "type": "image",
+        "title": "Fuzzy Factory Executive Overview",
+        "file": "assets/executive-overview.png"
+      },
+      {
+        "type": "image",
+        "title": "Fuzzy Factory Marketing Analysis",
+        "file": "assets/marketing-analysis.png"
+      },
+      {
+        "type": "image",
+        "title": "Fuzzy Factory Sales Analysis",
+        "file": "assets/sales-analysis.png"
+      },
+      {
+        "type": "pdf",
+        "title": "Fuzzy Factory Analysis",
+        "file": "Fuzzy-Factory.pdf"
+      },
+      {
+        "type": "sql",
+        "title": "Fuzzy Factory SQL Analysis",
+        "file": "Fuzzy-Factory.sql"
+      }
+    ],
+
+    "demo": null,
+
+    "caseStudy": null
+  },
+
+  "publish": {
+    "portfolio": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 50,
+      "customTitle": "Fuzzy Factory Data Analytics"
+    },
+
+    "mousa-analytics": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 50,
+      "customTitle": "Fuzzy Factory Data Analytics"
+    }
+  }
+}
